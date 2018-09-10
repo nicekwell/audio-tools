@@ -1,0 +1,6 @@
+CMake*
+cmake*
+!CmakeLists.txt
+Makefile
+test
+out.pcm
